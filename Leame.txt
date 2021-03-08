@@ -1,0 +1,9 @@
+EXPERIMENTACION CON ALGORITMOS GENETICOS APLICADOS A ALINEACION DE ONTOLOGIAS
+
+Archivos en Jupyter Notebook para Python 3.7
+
+La carpeta dataset contiene archivos OWL para validación.
+
+El archivo onto-alineacion-01.ipynb contiene algoritmo genético con evaluación de similitudes sin factor.
+
+El archivo onto-alineacion-02.ipynb contiene algoritmo genético con evaluación de similitudes con factor.
